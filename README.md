@@ -21,17 +21,6 @@ Kullanıcı bir şehir adı girerek, OpenWeatherMap API üzerinden anlık hava d
 - [Axios](https://axios-http.com/) – API istekleri için  
 - [OpenWeatherMap API](https://openweathermap.org/api)  
 
----
-
-## 📦 Kurulum
-Projeyi klonladıktan sonra terminalde:
-
-```bash
-# bağımlılıkları yükle
-npm install
-
-# geliştirme sunucusunu çalıştır
-npm run dev
 
 ---
 
